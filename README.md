@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Chatroom App (Multiple users can chat with each other)
+*************************************************
+Components used for this project:
 
-Things you may want to cover:
+* Ruby version 2.7
 
-* Ruby version
+* Rails version 5.2.4
 
-* System dependencies
+* Database Postgresql 12.6
 
-* Configuration
+* Bootstrap && Jquery for styling
 
-* Database creation
+* FrontEnd Semantic-UI
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Heroku for deployment
+* link: https://chatrooom-app.herokuapp.com/
